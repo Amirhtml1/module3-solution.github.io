@@ -1,0 +1,59 @@
+body {
+    font-size: 16px;
+   /* background-color: rgb(143, 158, 113); */
+    font-family:'Courier New', Courier, monospace;
+   
+}
+
+
+#header-nav {
+    background-color: rgb(205, 50, 50);
+    border-radius:0 ;
+    border:solid black 3px;
+}
+.navbar-brand h1 {
+    text-shadow: 2px 2px 2px rgb(1, 7, 1);
+    font-family: 'lora', serif;
+    color: rgb(248, 247, 247);
+    margin-top: 0px;   /* نام برند بالا در ناو قرار می گیرد  */
+    margin-bottom: 0px;
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    line-height: .7;
+    
+}
+.navbar-brand a:hover , a:focus {
+    text-decoration: none;
+}
+
+.text-center {
+    font-weight: bold;
+    font-size: 2.5em;
+}
+#nav-list {
+    margin-top: 10px;
+    text-align: center;
+    background-color: coral;
+}
+
+/*
+.chiken ,.beef ,.sushi {
+    border: 1px solid black;
+    background-color: coral;
+    text-align: center;
+} */
+
+.achiken  ,.abeef ,.asushi {
+    border: 1px solid black;
+    background-color: rgb(216, 151, 108);
+    text-align: left;
+    margin: 20px;
+    padding: 10px;
+
+}  
+div h2 {
+    text-align: center;
+}
